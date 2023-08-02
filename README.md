@@ -1,4 +1,4 @@
-# GOLANG Monorepo Boilerplate
+# GoLang Monorepo Boilerplate
 
 This is a boilerplate for a Golang monorepo.
 
